@@ -1,7 +1,7 @@
 # deep\_learning\_playground
  Playground for deep learning toy problems
 
-## binary\_classification
+## simple\_classification
 
 This one is a simple binary classification problem solved using deep learning.
 
@@ -27,12 +27,12 @@ python main.py --number_of_dim 2 --spacial_offset 10
 ```
 python main.py
 ```
-<img src="images/complicated_dataset.png" alt="images/complicated_dataset.png" width="320" height="240"/>
 
 #### Dataset non-linearly separable
 ```
 python main.py --complicated
 ```
+<img src="images/complicated_dataset.png" alt="images/complicated_dataset.png" width="320" height="240"/>
 
 ### You can choose between a single layer perceptron or a two layer one
 
