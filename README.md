@@ -1,7 +1,7 @@
 # deep\_learning\_playground
  Playground for deep learning toy problems
 
-## simple\_classification
+## binary\_classification
 
 This one is a simple binary classification problem solved using deep learning.
 
