@@ -19,7 +19,7 @@ python main.py --number_of_dim 1 --spacial_offset 10
 ```
 python main.py --number_of_dim 2 --spacial_offset 10
 ```
-<img src="images/two_dimension_dataset.png" alt="images/two_dimension_dataset.png" width="320" height="240"/>
+<img src="images/two_dimensions_dataset.png" alt="images/two_dimensions_dataset.png" width="320" height="240"/>
 
 ### You can choose between linearly or non-linearly separable dataset
 
