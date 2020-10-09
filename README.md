@@ -34,7 +34,7 @@ python main.py --complicated
 ```
 <img src="images/complicated_dataset.png" alt="images/complicated_dataset.png" width="320" height="240"/>
 
-### You can choose between a single layer perceptron or a two layer one
+### You can choose between a single layer perceptron or a two layers one
 
 #### Without hidden layer
 ```
