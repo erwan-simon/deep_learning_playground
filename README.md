@@ -13,7 +13,7 @@ There is different scenarios implemented.
 ```
 python main.py --number_of_dim 1 --spacial_offset 10
 ```
-![alt text](images/one_dimension_dataset.png = 320x240)
+<img src="images/one_dimension_dataset.png" alt="images/one_dimension_dataset.png" width="320" height="240"/>
 
 #### Two dimension dataset
 ```
