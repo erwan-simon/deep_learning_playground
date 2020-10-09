@@ -209,7 +209,8 @@ def main(number_of_dim=2,
         e_losses += train_epoch(model, train_dataset, train_labels, opt, criterion)
     plt.plot(e_losses)
     plt.show()
-    plot_decision_boundary(train_dataset, train_labels, model)
+    if number_of_dim != 1:
+        plot_decision_boundary(train_dataset, train_labels, model)
 
 def parse_arguments(argv):
     if len(argv) <= 1:
