@@ -19,7 +19,7 @@ python main.py --number_of_dim 1 --spacial_offset 10
 ```
 python main.py --number_of_dim 2 --spacial_offset 10
 ```
-![alt text](images/two_dimensions_dataset.png)
+<img src="images/two_dimension_dataset.png" alt="images/two_dimension_dataset.png" width="320" height="240"/>
 
 ### You can choose between linearly or non-linearly separable dataset
 
@@ -27,7 +27,7 @@ python main.py --number_of_dim 2 --spacial_offset 10
 ```
 python main.py
 ```
-![alt text](images/complicated_dataset.png)
+<img src="images/complicated_dataset.png" alt="images/complicated_dataset.png" width="320" height="240"/>
 
 #### Dataset non-linearly separable
 ```
@@ -51,11 +51,11 @@ When using the single layer perceptron, you cannot solve the non-linear problem.
 ```
 python main.py --number_of_dim 2 --complicated --spacial_offset 5
 ```
-![alt text](images/decision_boundary_simple_perceptron.png)
+<img src="images/decision_boundary_simple_perceptron.png" alt="images/decision_boundary_simple_perceptron.png" width="320" height="240"/>
 
 Indeed, you need at least one hidden layer to classify this problem correctly
 ```
 python main.py --number_of_dim 2 --complicated --spacial_offset 5 --hidden_layer
 ```
-![alt text](images/decision_boundary_multilayer_perceptron.png)
+<img src="images/decision_boundary_multilayer_perceptron.png" alt="images/decision_boundary_multilayer_perceptron.png" width="320" height="240"/>
 
